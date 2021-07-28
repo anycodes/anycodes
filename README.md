@@ -14,7 +14,6 @@
 
 ## Publication
 
-<center>
 <table>
   <tr>
     <td align="center"><center><img width="200px" src="https://user-images.githubusercontent.com/21079031/127255397-9c92cd9f-d844-4d0b-9a95-a4e22eac285a.png"></center></td>
@@ -27,25 +26,22 @@
     <td><center><a href="https://www.infoq.cn/minibook/MakiAbJdrZdT48UzHBfp">架构师特刊：人人都能学会的 Serverless 实践</a></center></td>
   </tr>
 </table>
-</center>
 
 
 ## Representative Work
 
-<center>
 <table width="100%">
   <tr>
-    <td align="center" width='33%'><center><img width="200px" src="https://user-images.githubusercontent.com/21079031/127256432-6aee6eed-5008-4dc2-82a9-590e9d256107.png"></center></td>
-    <td align="center" width='33%'><center><img width="200px" src="https://user-images.githubusercontent.com/21079031/127256281-5fdcf925-77eb-48de-9da7-d0193d8639f3.png"></center></td>
-    <td align="center" width='34%'><center><img width="200px" src="https://user-images.githubusercontent.com/21079031/127256187-1c67633c-8d13-4c93-8d34-33b23b85d056.png"></center></td>
+    <td align="center" width='33%'><center><img width="100%" src="https://user-images.githubusercontent.com/21079031/127256432-6aee6eed-5008-4dc2-82a9-590e9d256107.png"></center></td>
+    <td align="center" width='33%'><center><img width="100%" src="https://user-images.githubusercontent.com/21079031/127256281-5fdcf925-77eb-48de-9da7-d0193d8639f3.png"></center></td>
+    <td align="center" width='34%'><center><img width="100%" src="https://user-images.githubusercontent.com/21079031/127256187-1c67633c-8d13-4c93-8d34-33b23b85d056.png"></center></td>
   </td>
   <tr>
-    <td  align="center"><center><a href="https://anycodes.cn">Anycodes在线编程</a></center></td>
-    <td  align="center"><center><a href="https://console.cloud.tencent.com/api/explorer">腾讯云云API Explorer</a></center></td>
-    <td  align="center"><center><a href="https://serverless-devs.com">Serverless Devs</a></center></td>
+    <td align="center"><center><a href="https://anycodes.cn">Anycodes在线编程</a></center></td>
+    <td align="center"><center><a href="https://console.cloud.tencent.com/api/explorer">腾讯云云API Explorer</a></center></td>
+    <td align="center"><center><a href="https://serverless-devs.com">Serverless Devs</a></center></td>
   </tr>
 </table>
-</center>
 
 
 ## Follow Me
