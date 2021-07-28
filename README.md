@@ -44,17 +44,6 @@
 </table>
 
 
-## Follow Me
-
-
-
-[![Github](https://img.shields.io/github/followers/anycodes?label=Github&style=social)](https://github.com/anycodes)
-[![Resume](https://img.shields.io/badge/-Resume（https://0duzhan.com/）-c14438?style=flat-square&logo=B&logoColor=white)](https://0duzhan.com/)
-
-
-
-
-
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=anycodes&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
