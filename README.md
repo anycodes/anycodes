@@ -46,8 +46,3 @@
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=anycodes&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
-## Languages
-<a href="https://github.com/duktig666">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anycodes&theme=vue" />
-</a>
