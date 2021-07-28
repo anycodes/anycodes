@@ -33,7 +33,7 @@
 ## Representative Work
 
 <center>
-<table>
+<table width="100%">
   <tr>
     <td align="center" width='33%'><center><img width="200px" src="https://user-images.githubusercontent.com/21079031/127256432-6aee6eed-5008-4dc2-82a9-590e9d256107.png"></center></td>
     <td align="center" width='33%'><center><img width="200px" src="https://user-images.githubusercontent.com/21079031/127256281-5fdcf925-77eb-48de-9da7-d0193d8639f3.png"></center></td>
