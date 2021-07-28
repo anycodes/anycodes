@@ -40,9 +40,9 @@
     <td align="center" width='34%'><center><img width="200px" src="https://user-images.githubusercontent.com/21079031/127256187-1c67633c-8d13-4c93-8d34-33b23b85d056.png"></center></td>
   </td>
   <tr>
-    <td><center><a href="https://anycodes.cn">Anycodes在线编程</a></center></td>
-    <td><center><a href="https://console.cloud.tencent.com/api/explorer">腾讯云云API Explorer</a></center></td>
-    <td><center><a href="https://serverless-devs.com">Serverless Devs</a></center></td>
+    <td  align="center"><center><a href="https://anycodes.cn">Anycodes在线编程</a></center></td>
+    <td  align="center"><center><a href="https://console.cloud.tencent.com/api/explorer">腾讯云云API Explorer</a></center></td>
+    <td  align="center"><center><a href="https://serverless-devs.com">Serverless Devs</a></center></td>
   </tr>
 </table>
 </center>
