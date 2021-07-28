@@ -1,6 +1,10 @@
 # Hi,I'm Anycodes! 👋
 
-后台研发 / 产品经理
+<p>
+国防科技大学电子信息专业在读博士，阿里云Serverless产品侧负责人，从事Serverless相关的工作多年，负责阿里云函数计算（FC）、Serverless工作流（FNF）等产品。
+阿里云战略级开源项目Serverless Devs发起人和负责人，Serverless Framework、Kubevela等开源项目Contributor，社区项目Anycodes在线编程负责人。
+阿里云Serverless云布道师，CIO学院特聘讲师。畅销书《Serverless架构：从原理、设计到项目实战》《Serverless工程实践：从入门到进阶》等书作者，电子书《架构师特刊：人人都能学会的 Serverless 实践》（InfoQ出品）作者。
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=anycodes&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
