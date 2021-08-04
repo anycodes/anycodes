@@ -10,8 +10,8 @@
 
 - 🔭 I’m currently working on Alibaba Cloud
 - 🌱 I’m currently learning Serverless 
-- 👯 My blog: https://bluo.cn
-- 💬 Ask me about Serverless
+- 👯 My blog: https://bluo.cn/
+- 💬 My resume: https://0duzhan.com/
 - 📫 How to reach me: service@52exe.cn
 - ⚡ Fun fact: Coding
 
