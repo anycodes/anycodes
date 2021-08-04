@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Alibaba Cloud
 - 🌱 I’m currently learning Serverless 
-- 👯 I’m looking to collaborate on Serverless Devs
+- 👯 My blog: https://bluo.cn
 - 💬 Ask me about Serverless
 - 📫 How to reach me: service@52exe.cn
 - ⚡ Fun fact: Coding
