@@ -14,9 +14,9 @@
 - 应用名称：start-django
 - 应用简介：Django是一个开放源代码的Web应用框架，由Python写成。采用了MTV的框架模式，即模型M，视图V和模版T
 
-当前应用是通过 [Serverless Devs](https://github.com/Serverless-Devs/Serverless-Devs) 开发者工具进行部署，你也可以将本仓库 Clone 到本地，然后进行开发和调试，开发调试之后可以通过将代码推送到本仓库，根据在应用中心配置的逻辑，进行应用的更新。
+> 当前应用是通过 [Serverless Devs](https://github.com/Serverless-Devs/Serverless-Devs) 开发者工具进行部署，你也可以将本仓库 Clone 到本地，然后进行开发和调试，开发调试之后可以通过将代码推送到本仓库，根据在应用中心配置的逻辑，进行应用的更新。
 
-另外，如果您需要对该应用案例进行开发等操作时，我们**推荐您**：
+如果您需要对该应用案例进行开发等操作时，我们**推荐您**：
 1. 不要删除`s.yaml`文件，这个文件是当前应用的配置文件，关于`s.yaml`：
     - [`s.yaml` 的格式规范](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/yaml.md)
     - [函数计算组件，所支持的字段和字段含义](https://github.com/devsapp/fc/blob/main/docs/zh/yaml/readme.md)
