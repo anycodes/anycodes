@@ -24,7 +24,7 @@
     <td align="center"><center><img width="140px" src="https://user-images.githubusercontent.com/21079031/127255551-d7a3e8f2-0146-4c20-9107-5f65ff739cae.png"></center></td>
     <td align="center"><center><img width="180px" src="https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1646186615447_20220302020336067618.png"></center></td>
   <tr>
-  <td><center><a href="">Serverless 架构下的 AI 应用开发</a></center></td>
+  <td><center><a href="https://item.jd.com/10055961367240.html">Serverless 架构下的 AI 应用开发</a></center></td>
     <td><center><a href="https://item.jd.com/13366562.html">Serverless工程实践：从入门到进阶</a></center></td>
     <td><center><a href="https://item.jd.com/12592747.html">Serverless架构：从原理、设计到项目实战</a></center></td>
     <td><center><a href="https://www.infoq.cn/minibook/MakiAbJdrZdT48UzHBfp">架构师特刊：人人都能学会的 Serverless 实践</a></center></td>
