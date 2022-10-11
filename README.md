@@ -1,7 +1,7 @@
 # Hi,I'm Anycodes! 👋
 
 <p>
-国防科技大学电子信息专业在读博士，阿里云Serverless产品经理，阿里云麒麟布道师，云原生十佳布道师。阿里云战略级开源项目Serverless Devs发起人和负责人。畅销书《Serverless架构：从原理、设计到项目实战》《Serverless工程实践：从入门到进阶》《Serverless架构与人工智能最佳实践》等书作者，电子书《架构师特刊：人人都能学会的 Serverless 实践》（InfoQ出品）《Serverless开发速查手册》（阿里云藏经阁出品）作者。
+国防科技大学电子信息专业在读博士，阿里云 Serverless 产品专家，阿里云麒麟布道师，云原生十佳布道师。阿里云战略级开源项目 && CNCF Sandbox 项目：Serverless Devs 发起人和负责人。畅销书《Serverless架构：从原理、设计到项目实战》《Serverless工程实践：从入门到进阶》《Serverless架构与人工智能最佳实践》等书作者，电子书《架构师特刊：人人都能学会的 Serverless 实践》（InfoQ出品）《Serverless开发速查手册》（阿里云藏经阁出品）作者。
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=anycodes&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on Alibaba Cloud
 - 🌱 I’m currently learning Serverless 
 - 👯 My blog: https://bluo.cn/
-- 💬 My resume: https://0duzhan.com/
-- 📫 How to reach me: service@52exe.cn
+- 📫 How to reach me: liuyu@xmail.tech
 - ⚡ Fun fact: Coding
 
 
@@ -44,7 +43,7 @@
   <tr>
     <td align="center"><center><a href="https://anycodes.cn">Anycodes在线编程</a></center></td>
     <td align="center"><center><a href="https://console.cloud.tencent.com/api/explorer">腾讯云云API Explorer</a></center></td>
-    <td align="center"><center><a href="https://serverless-devs.com">Serverless Devs</a></center></td>
+    <td align="center"><center><a href="https://serverless-devs.com">Serverless Devs / CNCF Sandbox Project</a></center></td>
   </tr>
 </table>
 
