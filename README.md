@@ -1,7 +1,7 @@
 # Hi,I'm Anycodes! 👋
 
 <p>
-国防科技大学电子信息专业在读博士，阿里云 Serverless 产品专家，阿里云麒麟布道师，云原生十佳布道师。阿里云战略级开源项目 && CNCF Sandbox 项目：Serverless Devs 发起人和负责人。畅销书《Serverless架构：从原理、设计到项目实战》《Serverless工程实践：从入门到进阶》《Serverless架构与人工智能最佳实践》等书作者，电子书《架构师特刊：人人都能学会的 Serverless 实践》（InfoQ出品）《Serverless开发速查手册》（阿里云藏经阁出品）作者。
+国防科技大学电子信息专业在读博士，**电网运营工程师，曾任阿里云 Serverless 产品专家，麒麟布道师，腾讯云后台研发工程师；开源项目 && CNCF Sandbox 项目：Serverless Devs 发起人。畅销书《Serverless架构：从原理、设计到项目实战》《Serverless工程实践：从入门到进阶》《Serverless架构与人工智能最佳实践》等书作者，电子书《架构师特刊：人人都能学会的 Serverless 实践》（InfoQ出品）《Serverless开发速查手册》（阿里云藏经阁出品）作者。
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=anycodes&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
