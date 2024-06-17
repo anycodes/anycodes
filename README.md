@@ -6,8 +6,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=anycodes&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 I’m currently working on Alibaba Cloud
-- 🌱 I’m currently learning Serverless 
+- 🔭 I’m currently working on CSG
+- 🌱 I’m currently learning Big Data & Serverless
 - 👯 My blog: https://bluo.cn/
 - 📫 How to reach me: liuyu@xmail.tech
 - ⚡ Fun fact: Coding
