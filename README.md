@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on CSG
 - 🌱 I’m currently learning Big Data & Serverless
-- 👯 My blog: https://bluo.cn/
+- 👯 My blog: https://runor.cn/
 - 📫 How to reach me: liuyu@xmail.tech
 - ⚡ Fun fact: Coding
 
