@@ -48,5 +48,3 @@
 </table>
 
 
-## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=anycodes&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
